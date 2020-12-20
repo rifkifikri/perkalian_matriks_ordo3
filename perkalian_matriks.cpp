@@ -17,7 +17,7 @@ void input_array1(int f_arr[][],int f_brs,int f_clm){
 	cout<<endl;
 	}
 }
-/*
+
 int* f_perkalian(int arr[3][3],int arr2[3][3])
 {
 	int perkalianMatriks[3][3];
@@ -29,7 +29,7 @@ int* f_perkalian(int arr[3][3],int arr2[3][3])
             perkalianMatriks[i][j] = 0;
         }
     }
-*/
+
     for(int i=0; i<4; i++)
     {
         for(int j=0; j<3; j++)
